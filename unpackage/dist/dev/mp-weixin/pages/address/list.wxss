@@ -1,0 +1,58 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/**
+ * 自定义颜色
+ */
+page {
+  background: #F7F7F7;
+}
+.selfAddress {
+  padding: 30rpx;
+}
+.selfAddress .headTop {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 30rpx;
+  font-weight: bold;
+}
+.selfAddress .headTop .addressBtn {
+  border: 1px solid #000;
+  border-radius: 50rpx;
+  padding: 6rpx 15rpx;
+}
+.selfAddress .list {
+  padding-top: 30rpx;
+}
+.selfAddress .list .item {
+  background: #fff;
+  padding: 40rpx 20rpx;
+  margin-bottom: 30rpx;
+  border-radius: 15rpx;
+}
+.selfAddress .list .item .head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+}
+.selfAddress .list .item .head .left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.selfAddress .list .item .more {
+  font-size: 28rpx;
+  color: #a7a7a7;
+  padding-top: 10rpx;
+}
+.selfAddress .list .item .buttomdown {
+  display: flex;
+  justify-content: space-between;
+}
+.selfAddress .list .item .buttomdown .deleteicon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+

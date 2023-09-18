@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/**
+ * 自定义颜色
+ */
+.manage.data-v-d2689ad8 {
+  padding: 30rpx;
+}
+

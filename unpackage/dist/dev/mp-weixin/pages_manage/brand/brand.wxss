@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/**
+ * 自定义颜色
+ */
+.brand.data-v-fb611184 {
+  padding: 30rpx;
+}
+

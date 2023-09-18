@@ -1,0 +1,84 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/**
+ * 自定义颜色
+ */
+.proSpecsWrapper.data-v-036973e4 {
+  height: 70vh;
+}
+.proSpecsWrapper .top.data-v-036973e4 {
+  height: 80rpx;
+  width: 100%;
+}
+.proSpecsWrapper .body.data-v-036973e4 {
+  height: calc(100% - 220rpx);
+}
+.proSpecsWrapper .body .scrollView.data-v-036973e4 {
+  height: 100%;
+  padding: 0 30rpx;
+}
+.proSpecsWrapper .body .scrollView .proItem.data-v-036973e4 {
+  border-bottom: 1px solid #efefef;
+}
+.proSpecsWrapper .body .scrollView .selectWrapper.data-v-036973e4 {
+  border-bottom: 1px solid #efefef;
+  padding: 10rpx 0;
+}
+.proSpecsWrapper .body .scrollView .selectWrapper .list.data-v-036973e4 {
+  padding: 20rpx 0;
+}
+.proSpecsWrapper .body .scrollView .selectWrapper .list .title.data-v-036973e4 {
+  font-size: 32rpx;
+  font-weight: bold;
+  padding-bottom: 20rpx;
+}
+.proSpecsWrapper .body .scrollView .selectWrapper .list .group.data-v-036973e4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.proSpecsWrapper .body .scrollView .selectWrapper .list .group .btn.data-v-036973e4 {
+  padding: 0rpx 25rpx;
+  height: 60rpx;
+  border: 1rpx solid #efefef;
+  margin-right: 20rpx;
+  border-radius: 10rpx;
+  color: #676767;
+  margin-bottom: 20rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+  background: #F7F7F7;
+}
+.proSpecsWrapper .body .scrollView .selectWrapper .list .group .btn.active.data-v-036973e4 {
+  border-color: #EC544F;
+  color: #EC544F;
+  background: rgba(236, 87, 79, 0.1);
+}
+.proSpecsWrapper .body .scrollView .numSelect.data-v-036973e4 {
+  display: flex;
+  align-items: center;
+  padding: 30rpx 0;
+  border-bottom: 1px solid #efefef;
+}
+.proSpecsWrapper .body .scrollView .numSelect .title.data-v-036973e4 {
+  font-size: 32rpx;
+  font-weight: bold;
+  padding-right: 30rpx;
+}
+.proSpecsWrapper .footer.data-v-036973e4 {
+  height: 140rpx;
+  border-top: 1px solid #efefef;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+  padding: 0 200rpx;
+}
+

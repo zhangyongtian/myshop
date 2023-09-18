@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/**
+ * 自定义颜色
+ */
+.pronumbox .numbtn.data-v-56c5804e {
+  width: 40rpx;
+  height: 40rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+}
+.pronumbox .minus.data-v-56c5804e {
+  border: 1px solid #ccc;
+}
+.pronumbox .plus.data-v-56c5804e {
+  background: #EC544F;
+}
+.pronumbox .input.data-v-56c5804e {
+  width: 60rpx;
+  height: 40rpx;
+  font-size: 26rpx;
+  color: #888;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+}
+.pronumbox .none.data-v-56c5804e {
+  display: none;
+}
+

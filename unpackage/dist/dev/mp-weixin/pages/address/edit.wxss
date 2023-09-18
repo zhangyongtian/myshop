@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/**
+ * 自定义颜色
+ */
+.addressForm {
+  padding: 30rpx;
+}
+

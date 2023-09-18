@@ -1,0 +1,9 @@
+{
+  "name": "mall-brand",
+  "dependencies": {
+    "self-utils": "file:../common/self-utils"
+  },
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

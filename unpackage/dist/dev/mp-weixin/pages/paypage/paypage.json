@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "确认订单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "delivery-layout": "/components/delivery-layout/delivery-layout",
+    "goods-list": "/components/goods-list/goods-list",
+    "car-layout": "/components/car-layout/car-layout",
+    "uni-pay": "/uni_modules/uni-pay/components/uni-pay/uni-pay"
+  }
+}

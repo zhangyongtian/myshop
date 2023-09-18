@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/**
+ * 自定义颜色
+ */
+.searchLayout {
+  padding: 30rpx;
+  padding-bottom: 150rpx;
+}
+.searchLayout .historyList {
+  margin-top: 30rpx;
+}
+.searchLayout .historyList .item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 32rpx;
+  padding: 30rpx 0;
+  color: #333;
+  border-bottom: 1px solid #efefef;
+}
+.carOut {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+

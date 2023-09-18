@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/**
+ * 自定义颜色
+ */
+page {
+  background: #F7F7F7;
+}
+.paypage {
+  padding: 30rpx;
+}
+.paypage .goodsList {
+  margin-top: 30rpx;
+}
+.paypage .paytype {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.paypage .paytype .box {
+  width: 49%;
+  height: 75rpx;
+  background: #fff;
+  border-radius: 10rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #fff;
+  -webkit-filter: grayscale(100%);
+          filter: grayscale(100%);
+}
+.paypage .paytype .box .font {
+  padding-left: 10rpx;
+}
+.paypage .paytype .box:first-child.active {
+  border-color: #1578FF;
+  color: #1578FF;
+  -webkit-filter: grayscale(0%);
+          filter: grayscale(0%);
+}
+.paypage .paytype .box:last-child.active {
+  border-color: #04C15F;
+  color: #04C15F;
+  -webkit-filter: grayscale(0%);
+          filter: grayscale(0%);
+}
+.paypage .payTabbar {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+}
+

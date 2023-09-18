@@ -1,0 +1,12 @@
+{
+  "name": "demo-time-run",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  },
+  "cloudfunction-config": {		
+		"triggers": [{			
+			"config": "0 * * * * * *"
+		}]
+	}
+}

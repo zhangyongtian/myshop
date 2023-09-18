@@ -1,0 +1,7 @@
+{
+  "name": "demo-goods-cb",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

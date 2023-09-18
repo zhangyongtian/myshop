@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/**
+ * 自定义颜色
+ */
+page {
+  background: #F7F7F7;
+}
+.orderPage {
+  padding: 30rpx;
+}
+.orderPage .row {
+  background: #fff;
+  padding: 40rpx 20rpx;
+  border-radius: 20rpx;
+  margin-bottom: 30rpx;
+}
+.orderPage .row .head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 32rpx;
+}
+.orderPage .row .head .number {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: flex-start;
+  align-items: center;
+}
+.orderPage .row .head .number .way {
+  background: #19be6b;
+  color: #fff;
+  font-size: 22rpx;
+  padding: 6rpx 20rpx;
+  border-radius: 30rpx;
+  margin-left: 10rpx;
+}
+.orderPage .row .head .number .way.self {
+  background: #FF9100;
+}
+.orderPage .row .head .state {
+  color: #576b95;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: flex-start;
+  align-items: center;
+}
+.orderPage .row .head .state .err {
+  color: #F56C6C;
+}
+.orderPage .row .body {
+  border: 1px solid #e0e0e0;
+  padding: 60rpx 20rpx;
+  border-radius: 10rpx;
+  background: #F9F9F9;
+  font-size: 34rpx;
+  margin: 30px 0;
+}
+.orderPage .row .footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 26rpx;
+  color: #a5a5a5;
+}
+.orderPage .row .footer .price {
+  font-weight: bold;
+  color: #000;
+}
+

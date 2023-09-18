@@ -1,0 +1,92 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/**
+ * 自定义颜色
+ */
+.detailWrapper.data-v-e7e3c9f8 {
+  height: 85vh;
+}
+.detailWrapper .top.data-v-e7e3c9f8 {
+  height: 80rpx;
+  width: 100%;
+}
+.detailWrapper .body.data-v-e7e3c9f8 {
+  height: calc(100% - 220rpx);
+}
+.detailWrapper .body .scrollView.data-v-e7e3c9f8 {
+  height: 100%;
+  padding: 0 30rpx;
+}
+.detailWrapper .body .scrollView .thumb.data-v-e7e3c9f8 {
+  width: 690rpx;
+  height: 690rpx;
+}
+.detailWrapper .body .scrollView .thumb .img.data-v-e7e3c9f8 {
+  width: 100%;
+  height: 100%;
+}
+.detailWrapper .body .scrollView .info.data-v-e7e3c9f8 {
+  padding: 20rpx 0;
+  border-bottom: 1px solid #efefef;
+}
+.detailWrapper .body .scrollView .info .title.data-v-e7e3c9f8 {
+  font-size: 40rpx;
+  font-weight: bold;
+}
+.detailWrapper .body .scrollView .info .price.data-v-e7e3c9f8 {
+  display: flex;
+  align-items: center;
+  padding-top: 20rpx;
+}
+.detailWrapper .body .scrollView .info .price .big.data-v-e7e3c9f8 {
+  font-size: 46rpx;
+  font-weight: bold;
+  color: #EC544F;
+}
+.detailWrapper .body .scrollView .info .price .small.data-v-e7e3c9f8 {
+  font-size: 28rpx;
+  color: #a7a7a7;
+  font-weight: bold;
+  text-decoration: line-through;
+  margin-left: 10rpx;
+}
+.detailWrapper .body .scrollView .info .price .discount.data-v-e7e3c9f8 {
+  border: 1px solid #EC544F;
+  color: #EC544F;
+  font-size: 22rpx;
+  padding: 2rpx 20rpx;
+  margin-left: 10rpx;
+  border-radius: 8rpx;
+}
+.detailWrapper .body .scrollView .detail .text.data-v-e7e3c9f8 {
+  padding: 20rpx 0;
+}
+.detailWrapper .body .scrollView .detail .text .title.data-v-e7e3c9f8 {
+  font-size: 32rpx;
+  font-weight: bold;
+}
+.detailWrapper .body .scrollView .detail .text .description.data-v-e7e3c9f8 {
+  padding: 20rpx 0;
+  line-height: 1.7em;
+}
+.detailWrapper .body .scrollView .detail .picList .img.data-v-e7e3c9f8 {
+  width: 100%;
+  margin-bottom: 30rpx;
+}
+.detailWrapper .body .scrollView .detail .intro.data-v-e7e3c9f8 {
+  padding: 40rpx 0;
+  font-size: 30rpx;
+  color: #a7a7a7;
+  text-align: center;
+}
+.detailWrapper .footer.data-v-e7e3c9f8 {
+  height: 140rpx;
+  border-top: 1px solid #efefef;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+  padding: 0 200rpx;
+}
+

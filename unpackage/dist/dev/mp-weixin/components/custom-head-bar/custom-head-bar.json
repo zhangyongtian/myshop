@@ -1,0 +1,12 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "u-cell-group": "/uni_modules/uview-ui/components/u-cell-group/u-cell-group",
+    "u-cell": "/uni_modules/uview-ui/components/u-cell/u-cell",
+    "u-modal": "/uni_modules/uview-ui/components/u-modal/u-modal",
+    "u--input": "/uni_modules/uview-ui/components/u--input/u--input",
+    "uni-pay": "/uni_modules/uni-pay/components/uni-pay/uni-pay"
+  }
+}
